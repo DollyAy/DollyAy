@@ -1,6 +1,6 @@
 ## Hello humano 💟
 
-- Sou estudante da [Alura](https://www.alura.cpm.br) e ilustrador
+- Sou ilustrador e estudante da [Alura](https://www.alura.cpm.br)
 
 - Estou aprendendo a desenvolver a linguagem JavaScript
 
